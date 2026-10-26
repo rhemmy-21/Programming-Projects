@@ -1,0 +1,4 @@
+Rhem|123|10
+Melchor|345|1
+hudas|567|2
+gaspar|123|0
